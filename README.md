@@ -41,7 +41,7 @@
 ## 🚀 Projects
 Here are a few of my recent projects:
 
-- [Alarm Clock Project](https://github.com/Parami1125/Alarm-Clock)  
+- [Alarm Clock Project](https://parami1125.github.io/Digital-Alarm-Clock/)  
   A fully functional web-based alarm clock with user-friendly design and sound notifications.
   
 - [My Portfolio Website](https://parami1125.github.io/My-Portofolio/)  
