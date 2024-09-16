@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Evan Julian</h1>
 <h3 align="center">A passionate frontend developer from Indonesia</h3>
-<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/7d/07/a2/7d07a255678962d30d8717dcf5dbd266.gif">
+<img align="right" alt="Coding" width="450" src="https://i.pinimg.com/originals/73/7b/3e/737b3e30006b166565214cabc6f20971.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=parami1125&label=Profile%20views&color=0e75b6&style=flat" alt="parami1125" /> </p>
 
