@@ -1,3 +1,8 @@
+<!-- Banner Image -->
+<p align="center">
+    <img src="https://i.pinimg.com/736x/9b/4e/97/9b4e97eef471217be64a636c338b0dac.jpg" alt="Banner" width="1024" height="400">
+</p>
+
 <h1 align="center">Hi 👋, I'm Evan Julian</h1>
 <h3 align="center">A passionate frontend developer from Indonesia</h3>
 <img align="right" alt="Coding" width="450" src="https://i.pinimg.com/originals/73/7b/3e/737b3e30006b166565214cabc6f20971.gif">
