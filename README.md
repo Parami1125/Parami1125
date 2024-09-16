@@ -50,6 +50,7 @@ Here are a few of my recent projects:
 ## 🏆 Achievements & Badges
 ![Leetcode Badge](https://img.shields.io/badge/Leetcode-Top%20Coder-orange)
 ![HackerRank Badge](https://img.shields.io/badge/HackerRank-5%20Star-green)
+![Google Developer Badge](https://img.shields.io/badge/Google%20Developer-Certified-blue)
 
 
 <h3 align="left">Languages and Tools:</h3>
