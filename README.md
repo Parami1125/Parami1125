@@ -33,8 +33,8 @@
 
 <h3 align="left">Achievements and Certifications:</h3>
 <ul align="left">
-  <li>🏆 <a href="https://www.coursera.org/account/accomplishments/verify/XYZ123" target="_blank">Google UX Design Certificate</a></li>
-  <li>🏆 <a href="https://www.coursera.org/account/accomplishments/verify/XYZ123" target="_blank">Google IT Automation with Python</a></li>
+  <li>🏆 <a href="https://www.coursera.org/account/accomplishments/professional-cert/T3SF12IHEWWS" target="_blank">Google UX Design Certificate</a></li>
+  <li>🏆 <a href="https://www.coursera.org/account/accomplishments/professional-cert/1J05OBHN817Y" target="_blank">Google IT Automation with Python</a></li>
   <li>🏆 <a href="https://www.coursera.org/account/accomplishments/professional-cert/FXOS0KXBBFZQ" target="_blank">Meta Front-End Developer Specialization</a></li>
 </ul>
 
