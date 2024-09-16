@@ -1,6 +1,6 @@
 <!-- Banner Image -->
 <p align="center">
-    <img src="https://i.pinimg.com/736x/9b/4e/97/9b4e97eef471217be64a636c338b0dac.jpg" alt="Banner" width="1024" height="400">
+    <img src="github-header-image.png" alt="Banner">
 </p>
 
 <h1 align="center">Hi 👋, I'm Evan Julian</h1>
