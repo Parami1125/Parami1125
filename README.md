@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **PHP, Javascript and many more**
 
-- 👨‍💻 All of my projects are available at [https://parami1125.github.io/My-Portofolio/](https://parami1125.github.io/My-Portofolio/)
+- 👨‍💻 All of my projects are available at [https://github.com/Parami1125?tab=repositories](https://github.com/Parami1125?tab=repositories)
 
 - 💬 Ask me about **HTML, CSS, Graphic Design, Figma**
 
