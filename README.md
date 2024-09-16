@@ -3,8 +3,7 @@
     <img src="Banner Image.png" alt="Banner">
 </p>
 
-<h1 align="center">Hi 👋, I'm Evan Julian</h1>
-<h3 align="center">A passionate frontend developer from Indonesia</h3>
+<h1 align="center">A passionate frontend developer from Indonesia</h1>
 <img align="right" alt="Coding" width="300" height="450" src="https://64.media.tumblr.com/e153a9b726496838665ba14b183b02b0/3c5824e8eb0e1680-68/s500x750/a71dfe3e0237a263bf0d482faeeee8331ca15da2.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=parami1125&label=Profile%20views&color=0e75b6&style=flat" alt="parami1125" /> </p>
