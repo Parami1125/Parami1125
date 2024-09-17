@@ -46,6 +46,9 @@ Here are a few of my recent projects:
 - [My Portfolio Website](https://parami1125.github.io/My-Portofolio/)  
   A showcase of my design skills, coding projects, and experience.
 
+- [E-Learning SmartStudy](https://github.com/Parami1125/E-Learning-SmartStudy)  
+  An e-learning web application designed to enhance the quality of education with innovative technology. This project focuses on providing an effective, interactive, and user-friendly platform for higher education students.
+  
 ## 🏆 Achievements & Badges
 ![Leetcode Badge](https://img.shields.io/badge/Leetcode-Top%20Coder-orange)
 ![HackerRank Badge](https://img.shields.io/badge/HackerRank-5%20Star-green)
