@@ -61,5 +61,3 @@ Here are a few of my recent projects:
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=parami1125&show_icons=true&locale=en&layout=compact" alt="parami1125" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=parami1125&show_icons=true&locale=en" alt="parami1125" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=parami1125&" alt="parami1125" /></p>
