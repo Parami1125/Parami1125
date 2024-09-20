@@ -10,6 +10,10 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
+## 🌟 About Me
+I am passionate about creating innovative solutions that improve user experience. I believe in lifelong learning and always seek to enhance my skills in technology.
+
+
 - 🔭 I’m currently working on [My Website Portofolio](https://parami1125.github.io/My-Portofolio/)
 
 - 🌱 I’m currently learning **PHP, Javascript and many more**
@@ -48,6 +52,8 @@ Here are a few of my recent projects:
 
 - [E-Learning SmartStudy](https://github.com/Parami1125/E-Learning-SmartStudy)  
   An e-learning web application designed to enhance the quality of education with innovative technology. This project focuses on providing an effective, interactive, and user-friendly platform for higher education students.
+
+  
   
 ## 🏆 Achievements & Badges
 ![Leetcode Badge](https://img.shields.io/badge/Leetcode-Top%20Coder-orange)
