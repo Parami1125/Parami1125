@@ -4,14 +4,16 @@
 </p>
 
 <h1 align="center">A passionate frontend developer from Indonesia</h1>
-<img align="right" alt="Coding" width="300" height="450" src="https://64.media.tumblr.com/e153a9b726496838665ba14b183b02b0/3c5824e8eb0e1680-68/s500x750/a71dfe3e0237a263bf0d482faeeee8331ca15da2.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=parami1125&label=Profile%20views&color=0e75b6&style=flat" alt="parami1125" /> </p>
+
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
 ## 🌟 About Me
 I am passionate about creating innovative solutions that improve user experience. I believe in lifelong learning and always seek to enhance my skills in technology.
+
+<img align="right" alt="Coding" width="300" height="450" src="https://64.media.tumblr.com/e153a9b726496838665ba14b183b02b0/3c5824e8eb0e1680-68/s500x750/a71dfe3e0237a263bf0d482faeeee8331ca15da2.gif">
 
 
 - 🔭 I’m currently working on [My Website Portofolio](https://parami1125.github.io/My-Portofolio/)
@@ -29,6 +31,7 @@ I am passionate about creating innovative solutions that improve user experience
 - ⚡ Fun fact **I love listening to K-pop Song**
 
 <h3 align="left">Connect with me:</h3>
+
 <p align="left">
 <a href="https://www.linkedin.com/in/evan-julian-8aa5a2292/"blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="evan julian" height="30" width="40" /></a>
 <a href="https://www.instagram.com/m.panjull/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="@m.panjull" height="30" width="40" /></a>
